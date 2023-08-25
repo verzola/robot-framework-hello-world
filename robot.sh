@@ -1,2 +1,2 @@
 #!/bin/bash
-pipenv run robot $@
+docker-compose run test $@
